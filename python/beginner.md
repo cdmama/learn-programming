@@ -58,4 +58,4 @@ These courses have an interactive component or exercises where you type in code 
 
 Know of a resource that you think should be here? Open a pull request or send me a message!
 
-Need advice or someone to walk you through things? My Discord server, **[Coding Mama's House](https://discord.gg/ka6buVd)**, welcomes you! Ask away in the *#help-please* channel. See you there!
+Need advice or someone to walk you through things? My Discord server, **[Coding Mama's House](https://discord.gg/ka6buVd)**, welcomes you! See you there!
